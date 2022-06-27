@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Daniil</a> 
+<h1 align="center">Hi there, I'm Elena</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Biomedical engineer</h3>
 
 <!--
 **Elena-TKO/Elena-TKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
